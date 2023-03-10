@@ -319,7 +319,7 @@
 		"abr": "torytalkervote",
 		"price": 750,
 		"karmatype": "Neutral"
-	}
+	},
 	{
 		"abr": "hodlbotvote",
 		"price": 600,
@@ -327,4 +327,4 @@
 	}
 	],
 	"total": 65
-},
+}
