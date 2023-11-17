@@ -1,11 +1,6 @@
 {
 	"items" : [
-	{
-		"abr": "advancedcomponent",
-		"price": 333,
-		"category": "Manufactured",
-		"defname": "ComponentSpacer"
-	},
+
 	{
 		"abr": "agavefruit",
 		"price": 10,
